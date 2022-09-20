@@ -29,4 +29,4 @@
 t0night/t0night is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-### <div align=center >Visitor count <img src="https://profile-counter.glitch.me/t0night/count.svg" /><div>
+<img align=center src="https://profile-counter.glitch.me/t0night/count.svg" /><div>
